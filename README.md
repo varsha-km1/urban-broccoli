@@ -66,7 +66,7 @@ pip install opencv-python numpy imutils
 - **Model**: The included `MobileNetSSD_deploy.caffemodel` is pre-trained, eliminating the need for external downloads.
 
 ## License
-This project is a derivative of [Surya-Murali’s Real-Time-Object-Detection-With-OpenCV](https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV), originally released under the MIT License. My enhancements are copyrighted © 2025 Jai Adithya Ram Nayani and distributed under the same MIT License. See `live_object_spotter.py` for full licensing details.
+This project is a derivative of [Surya-Murali’s Real-Time-Object-Detection-With-OpenCV](https://github.com/Surya-Murali/Real-Time-Object-Detection-With-OpenCV), originally released under the MIT License. My enhancements are copyrighted © 2025 Varsha K M and distributed under the same MIT License. See `live_object_spotter.py` for full licensing details.
 
 ## Acknowledgments
 - Credit to Surya-Murali for the foundational MIT-licensed codebase.
