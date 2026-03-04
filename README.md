@@ -33,7 +33,7 @@ pip install opencv-python numpy imutils
 ## Setup and Execution
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/jai-nayani/urban-broccoli.git
+   git clone https://github.com/varsha-km1/urban-broccoli.git
    cd urban-broccoli
    ```
 
